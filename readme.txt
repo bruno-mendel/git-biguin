@@ -1,5 +1,5 @@
 Welcome to my Project
 
-Author: Mendel
+Author: Mendel Bruno
 
 Twitter: Mendels
